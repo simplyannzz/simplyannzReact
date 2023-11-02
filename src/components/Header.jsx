@@ -1,15 +1,6 @@
-import React from "react";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-
-export default function App() {
-  return (
-    <div>
-      <Header />
-      <br />
-      <br />
-      <br />
-      <Footer />
-    </div>
-  );
-}
+import React from "react"
+import Navigation from "./Navigation"
+import contact from "./pages/Contact"
+import About from "./pages/About"
+import Portfolio from "./pages/Portfolio"
+import Resume from "./pages/Resume"
