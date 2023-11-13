@@ -1,8 +1,38 @@
-# React + Vite
+# SIMPLYANNZREACT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+The task is to create a portfolio using REACT to set us apart from other developers. REACT is the latest technologies. Deploying this application to Netlify.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Contact](#contact)
+
+## Installation
+
+I used the tools that I had on my computer, like Git, Vscode, Github, and Google. First, I cloned the repo into my local file, made a GitHub repo, and named both the local and global repo. I uploaded the finished code to Netlify .
+
+## Usage
+
+1. Launch server
+2. Open on Heroku
+3. Check if It is working
+
+Netlify link:
+
+## Credits
+
+https://blog.logrocket.com/creating-navbar-react/
+
+## License
+
+NONE
+
+## Contact
+
+Email: anniebui0110@gmail.com
+Github: https://github.com/simplyannzz
